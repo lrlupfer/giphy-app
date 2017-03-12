@@ -1,0 +1,26 @@
+h1 {
+	font-family: 'Rubik Mono One', sans-serif;
+	margin: 100px;
+	color: magenta;
+}
+
+body {
+	font-family: 'Inconsolata', monospace;
+}
+
+.container {
+	text-align: center;
+}
+
+.btn .btn-default {
+	padding: 100px;
+}
+
+#showGifs {
+	padding-top: 25px;
+}
+
+#submitButton {
+	color: white;
+	background: darkmagenta;
+}
